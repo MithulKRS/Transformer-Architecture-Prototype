@@ -38,3 +38,11 @@ To test the architecture without the heavy overhead of Google Earth Engine (GEE)
 Ensure you have Python 3.10+ installed. Install the required dependencies:
 ```bash
 pip install tensorflow numpy scikit-learn
+
+
+## 📚 References & Core Inspiration
+
+The architectural design of this Hybrid CNN-Transformer prototype was heavily inspired by recent 2025/2026 advancements in spatiotemporal Earth Observation modeling. For deeper technical context regarding the fusion of convolutional spatial extraction and transformer-based sequence attention, please refer to:
+
+1. **Bouaziz, M. C., et al. (2026).** *ConvLSTM-GCN-transformer: Spatiotemporal graph-attention model for vegetation index map forecasting.* Expert Systems With Applications, 314, 131596.
+2. **Ingole, R. V., et al. (2025).** *TranSegNet: A Hybrid Transformer Model for Satellite Imagery Segmentation with Performance Benchmark Against U-Net Variants.* Procedia Computer Science, 258, 775-784.
