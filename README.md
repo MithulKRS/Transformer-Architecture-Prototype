@@ -38,7 +38,7 @@ To test the architecture without the heavy overhead of Google Earth Engine (GEE)
 Ensure you have Python 3.10+ installed. Install the required dependencies:
 ```bash
 pip install tensorflow numpy scikit-learn
-
+```
 
 ## 📚 References & Core Inspiration
 
